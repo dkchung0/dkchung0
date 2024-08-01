@@ -45,8 +45,11 @@
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
@@ -81,14 +84,20 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a> 
 
-  <!-- Containerization and DevOps -->
+  <!-- DevOps Tools -->
   <h4 align="left">Containerization and DevOps:</h4>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://airflow.apache.org/images/airflow_logo.svg" alt="airflow" width="40" height="40"/>
+  </a>
 
   <!-- Cloud Services -->
   <h4 align="left">Cloud Services:</h4>
