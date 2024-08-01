@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, My name is Chi Chung Chen and I am a Python developer from Taiwan</h3>
+<h3 align="center">Hi 👋, My name is Chi Chung Chen and I am a Python developer from 🇹🇼 </h3>
 <hr>
 
 - ✨ Creating bugs since **2020**
@@ -7,7 +7,7 @@
 
 - ❤️ Like watching anime 💻 and playing basketball 🏀
 
-- 📚 I'm currently learning **english**
+- 📚 I'm currently learning **English** 
 
 - 📫 How to reach me : **lumiere.86x@gmail.com**
 <hr>
