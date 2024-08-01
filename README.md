@@ -34,7 +34,7 @@
   </table>
 
   <!-- Frameworks and Libraries in Python3 -->
-  <h4 align="left">Frameworks and Libraries:</h4>
+  <h4 align="left">Frameworks and Libraries in Python3:</h4>
   <table>
     <tr>
       <td align="center"><img src="https://numpy.org/images/logo.svg" title="NumPy" alt="NumPy" width="55" height="55"/><br>NumPy</td>
