@@ -64,7 +64,7 @@
   </table>
 
   <!-- DevOps Tools -->
-  <h4 align="left">Containerization and DevOps:</h4>
+  <h4 align="left">DevOps Tools:</h4>
   <table>
     <tr>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="55" height="55"/><br>Linux</td>
