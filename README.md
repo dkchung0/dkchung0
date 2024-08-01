@@ -57,7 +57,7 @@
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/><br>PostgreSQL</td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/><br>MySQL</td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/><br>MongoDB</td>
-      <td align="center"><img src="https://milvus.io/images/milvus-logo.svg" title="Milvus" alt="Milvus" width="55" height="55"/><br>Milvus</td>
+      <td align="center"><img src="https://artwork.lfaidata.foundation/projects/milvus/stacked/color/milvus-stacked-color.svg" title="Milvus" alt="Milvus" width="55" height="55"/><br>Milvus</td>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" title="Elasticsearch" alt="Elasticsearch" width="55" height="55"/><br>Elasticsearch</td>
       <td align="center"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="55" height="55"/><br>Microsoft SQL Server</td>
     </tr>
