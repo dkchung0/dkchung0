@@ -33,7 +33,7 @@
     </tr>
   </table>
 
-  <!-- Frameworks and Libraries -->
+  <!-- Frameworks and Libraries in Python3 -->
   <h4 align="left">Frameworks and Libraries:</h4>
   <table>
     <tr>
