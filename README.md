@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/麒仲-陳-a7899b235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="麒仲-陳-a7899b235" height="30" width="40" /></a>
 <a href="https://instagram.com/dk._0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dk._0" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@user-twchung6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@user-twchung6" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@user-twchung6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@user-twchung6" height="30" width="40" /></a>
 </p>
 <hr>
 
