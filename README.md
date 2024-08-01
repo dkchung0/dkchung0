@@ -70,9 +70,9 @@
       <td align="center"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="55" height="55"/><br>Linux</td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/><br>Docker</td>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="55" height="55"/><br>Git</td>
-      <td align="center"><img src="https://airflow.apache.org/docs/apache-airflow/latest/_images/powered_by_airflow.svg" title="Airflow" alt="Airflow" width="55" height="55"/><br>Airflow</td>
-      <td align="center"><img src="https://docs.pytest.org/en/stable/_images/pytest-logo.png" title="Pytest" alt="Pytest" width="55" height="55"/><br>Pytest</td>
-      <td align="center"><img src="https://swagger.io/wp-content/themes/swagger/assets/images/swagger-logo.svg" title="Swagger" alt="Swagger" width="55" height="55"/><br>Swagger</td>
+      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" title="Airflow" alt="Airflow" width="55" height="55"/><br>Airflow</td>
+      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/pytest.svg" title="Pytest" alt="Pytest" width="55" height="55"/><br>Pytest</td>
+      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" title="Swagger" alt="Swagger" width="55" height="55"/><br>Swagger</td>
     </tr>
   </table>
 
