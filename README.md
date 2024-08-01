@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chi Chung Chen</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a python developer, from 🇹🇼</h3>
+
+- 📫 How to reach me **lumiere.86x@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/s09706099909@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s09706099909@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/麒仲-陳-a7899b235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="麒仲-陳-a7899b235" height="30" width="40" /></a>
 <a href="https://instagram.com/dk._0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dk._0" height="30" width="40" /></a>
 </p>
 
@@ -15,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkchung0&show_icons=true&locale=en" alt="dkchung0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkchung0&" alt="dkchung0" /></p>
+
