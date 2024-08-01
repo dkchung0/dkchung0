@@ -26,10 +26,10 @@
   <h4 align="left">Programming Languages:</h4>
   <table>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/></td>
-      <td><img src="https://www.r-project.org/logo/Rlogo.svg" title="R" alt="R" width="55" height="55"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" title="SAS" alt="SAS" width="55" height="55"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/><br>Python</td>
+      <td><img src="https://www.r-project.org/logo/Rlogo.svg" title="R" alt="R" width="55" height="55"/><br>R</td>
+      <td><img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" title="SAS" alt="SAS" width="55" height="55"/><br>SAS</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/><br>JavaScript</td>
     </tr>
   </table>
 
@@ -37,14 +37,14 @@
   <h4 align="left">Frameworks and Libraries:</h4>
   <table>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="Flask" alt="Flask" width="55" height="55"/></td>
-      <td><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" title="FastAPI" alt="FastAPI" width="55" height="55"/></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/></td>
-      <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/></td>
-      <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="Selenium" alt="Selenium" width="55" height="55"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/><br>Pandas</td>
+      <td><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="Flask" alt="Flask" width="55" height="55"/><br>Flask</td>
+      <td><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" title="FastAPI" alt="FastAPI" width="55" height="55"/><br>FastAPI</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/><br>Scikit-learn</td>
+      <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/><br>PyTorch</td>
+      <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/><br>TensorFlow</td>
+      <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/><br>Seaborn</td>
+      <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="Selenium" alt="Selenium" width="55" height="55"/><br>Selenium</td>
     </tr>
   </table>
 
@@ -52,11 +52,11 @@
   <h4 align="left">Databases:</h4>
   <table>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" title="Elasticsearch" alt="Elasticsearch" width="55" height="55"/></td>
-      <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="55" height="55"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/><br>PostgreSQL</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/><br>MySQL</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/><br>MongoDB</td>
+      <td><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" title="Elasticsearch" alt="Elasticsearch" width="55" height="55"/><br>Elasticsearch</td>
+      <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="55" height="55"/><br>Microsoft SQL Server</td>
     </tr>
   </table>
 
@@ -64,9 +64,9 @@
   <h4 align="left">Containerization and DevOps:</h4>
   <table>
     <tr>
-      <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="55" height="55"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="55" height="55"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="55" height="55"/><br>Linux</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/><br>Docker</td>
+      <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="55" height="55"/><br>Git</td>
     </tr>
   </table>
 
@@ -74,11 +74,12 @@
   <h4 align="left">Cloud Services:</h4>
   <table>
     <tr>
-      <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure" alt="Azure" width="55" height="55"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure" alt="Azure" width="55" height="55"/><br>Azure</td>
+      <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"/><br>Google Cloud</td>
     </tr>
   </table>
 </p>
+
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkchung0&show_icons=true&locale=en&layout=compact" alt="dkchung0" /></p>
