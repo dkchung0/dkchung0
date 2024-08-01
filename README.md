@@ -39,13 +39,13 @@
     <tr>
       <td align="center"><img src="https://numpy.org/images/logo.svg" title="NumPy" alt="NumPy" width="55" height="55"/><br>NumPy</td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/><br>Pandas</td>
+      <td align="center"><img src="https://matplotlib.org/stable/_static/logo2.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/><br>Matplotlib</td>
+      <td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/><br>Seaborn</td>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="Flask" alt="Flask" width="55" height="55"/><br>Flask</td>
       <td align="center"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" title="FastAPI" alt="FastAPI" width="55" height="55"/><br>FastAPI</td>
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/><br>Scikit-learn</td>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/><br>PyTorch</td>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/><br>TensorFlow</td>
-      <td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/><br>Seaborn</td>
-      <td align="center"><img src="https://matplotlib.org/stable/_static/logo2.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/><br>Matplotlib</td>
       <td align="center"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="Selenium" alt="Selenium" width="55" height="55"/><br>Selenium</td>
     </tr>
   </table>
