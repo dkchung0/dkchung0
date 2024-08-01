@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Chi Chung Chen</h1>
-<h3 align="center">I'm a python developer, from 🇹🇼</h3>
+<h3 align="center">Hi 👋, My name is Chi Chung Chen and I am a Python developer from Taiwan</h3>
 
 - ✨ Creating bugs since **2020**
 
-- 🎯 Goals: live in a cold ☃️ place [and ski 🏂 on weekends](and ski 🏂 on weekends)
+- 🎯 Goals: live in a cold ☃️ place and ski 🏂 on weekends
 
-- ❤️ Like watching anime 💻 [and playing basketball 🏀](and playing basketball 🏀)
+- ❤️ Like watching anime 💻 and playing basketball 🏀
 
 - 📚 I'm currently learning **english**
 
