@@ -9,7 +9,7 @@
 
 - 📚 I'm currently learning **english**
 
-- 📫 How to reach me **lumiere.86x@gmail.com**
+- 📫 How to reach me : **lumiere.86x@gmail.com**
 <hr>
 
 <h3 align="left">Connect with me:</h3>
