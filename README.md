@@ -50,8 +50,8 @@
     </tr>
   </table>
 
-  <!-- Databases -->
-  <h4 align="left">Databases:</h4>
+  <!-- Used database -->
+  <h4 align="left">Used database:</h4>
   <table>
     <tr>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/><br>PostgreSQL</td>
