@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Chi Chung Chen</h1>
 <h3 align="center">I'm a python developer, from 🇹🇼</h3>
 
+- ✨ Creating bugs since **2020**
+
+- 🎯 Goals: live in a cold ☃️ place [and ski 🏂 on weekends](and ski 🏂 on weekends)
+
+- ❤️ Like watching anime 💻 [and playing basketball 🏀](and playing basketball 🏀)
+
+- 📚 I'm currently learning **english**
+
 - 📫 How to reach me **lumiere.86x@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
