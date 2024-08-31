@@ -3,7 +3,9 @@
 
 - 💫 Creating bugs since **2021**
 
-- ❤️ Like watching anime 💻 and playing basketball 🏀
+- 👨‍💻 Mainly working on data science and artificial intelligence 🤖
+
+- 🥰 Like watching anime 💻 and playing basketball 🏀
 
 - 🚀 Dream : Living in a cold ☃️ place, I ski when I have time on weekends 🏂
 
