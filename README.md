@@ -12,58 +12,53 @@
 - 📫 How to reach me : **lumiere.86x@gmail.com**
 
 
-<script>
-    async function updateDashboard() {
-        try {
-            // 从 API 获取数据
-            const response = await fetch('https://leetcode-stats-api.herokuapp.com/Thorfinn7v');
-            const data = await response.json();
-
-            // 更新解决的问题数量
-            document.getElementById('solved-count').textContent = data.totalSolved;
-            document.getElementById('attempting-count').textContent = data.totalAttempting;
-
-            // 更新进度条
-            const easyProgress = document.getElementById('easy-progress');
-            const mediumProgress = document.getElementById('medium-progress');
-            const hardProgress = document.getElementById('hard-progress');
-
-            // 计算进度条的值
-            const easySolved = data.solvedEasy;
-            const easyTotal = data.totalEasy;
-            const mediumSolved = data.solvedMedium;
-            const mediumTotal = data.totalMedium;
-            const hardSolved = data.solvedHard;
-            const hardTotal = data.totalHard;
-
-            // 更新 Easy 类别的进度条
-            easyProgress.querySelector('circle:nth-of-type(2)').style.strokeDasharray = `${(easySolved / easyTotal) * 100}, 100`;
-            easyProgress.querySelector('circle:nth-of-type(2)').style.strokeDashoffset = 66;
-
-            // 更新 Medium 类别的进度条
-            mediumProgress.querySelector('circle:nth-of-type(2)').style.strokeDasharray = `${(mediumSolved / mediumTotal) * 100}, 100`;
-            mediumProgress.querySelector('circle:nth-of-type(2)').style.strokeDashoffset = 66;
-
-            // 更新 Hard 类别的进度条
-            hardProgress.querySelector('circle:nth-of-type(2)').style.strokeDasharray = `${(hardSolved / hardTotal) * 100}, 100`;
-            hardProgress.querySelector('circle:nth-of-type(2)').style.strokeDashoffset = 66;
-
-            // 更新类别的解决问题数量
-            document.getElementById('easy-solved').textContent = easySolved;
-            document.getElementById('easy-total').textContent = easyTotal;
-            document.getElementById('medium-solved').textContent = mediumSolved;
-            document.getElementById('medium-total').textContent = mediumTotal;
-            document.getElementById('hard-solved').textContent = hardSolved;
-            document.getElementById('hard-total').textContent = hardTotal;
-
-        } catch (error) {
-            console.error('Error fetching data:', error);
+<style>
+        .dashboard {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-family: Arial, sans-serif;
+            margin-top: 20px;
         }
-    }
+        .stat {
+            margin: 10px 0;
+        }
+</style>
 
-    // 当页面加载时调用 updateDashboard 函数
-    window.onload = updateDashboard;
-</script>
+<body>
+    <div class="dashboard">
+        <div class="stat" id="total-solved">Total Solved: Loading...</div>
+        <div class="stat" id="easy-solved">Easy Solved: Loading...</div>
+        <div class="stat" id="medium-solved">Medium Solved: Loading...</div>
+        <div class="stat" id="hard-solved">Hard Solved: Loading...</div>
+        <div class="stat" id="acceptance-rate">Acceptance Rate: Loading...</div>
+        <div class="stat" id="ranking">Ranking: Loading...</div>
+    </div>
+
+    <script>
+        async function fetchLeetCodeStats() {
+            try {
+                const response = await fetch('https://leetcode-stats-api.herokuapp.com/Thorfinn7v');
+                const data = await response.json();
+
+                if (data.status === 'success') {
+                    document.getElementById('total-solved').innerText = `Total Solved: ${data.totalSolved}/${data.totalQuestions}`;
+                    document.getElementById('easy-solved').innerText = `Easy Solved: ${data.easySolved}/${data.totalEasy}`;
+                    document.getElementById('medium-solved').innerText = `Medium Solved: ${data.mediumSolved}/${data.totalMedium}`;
+                    document.getElementById('hard-solved').innerText = `Hard Solved: ${data.hardSolved}/${data.totalHard}`;
+                    document.getElementById('acceptance-rate').innerText = `Acceptance Rate: ${data.acceptanceRate}%`;
+                    document.getElementById('ranking').innerText = `Ranking: ${data.ranking}`;
+                } else {
+                    console.error('Failed to fetch LeetCode stats');
+                }
+            } catch (error) {
+                console.error('Error fetching LeetCode stats:', error);
+            }
+        }
+
+        fetchLeetCodeStats();
+    </script>
+</body>
 
 
 
