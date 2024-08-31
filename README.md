@@ -11,59 +11,8 @@
 
 - 📫 How to reach me : **lumiere.86x@gmail.com**
 
-
-<style>
-        .dashboard {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            font-family: Arial, sans-serif;
-            margin-top: 20px;
-        }
-        .stat {
-            margin: 10px 0;
-        }
-</style>
-
-<body>
-    <div class="dashboard">
-        <div class="stat" id="total-solved">Total Solved: Loading...</div>
-        <div class="stat" id="easy-solved">Easy Solved: Loading...</div>
-        <div class="stat" id="medium-solved">Medium Solved: Loading...</div>
-        <div class="stat" id="hard-solved">Hard Solved: Loading...</div>
-        <div class="stat" id="acceptance-rate">Acceptance Rate: Loading...</div>
-        <div class="stat" id="ranking">Ranking: Loading...</div>
-    </div>
-
-    <script>
-        async function fetchLeetCodeStats() {
-            try {
-                const response = await fetch('https://leetcode-stats-api.herokuapp.com/Thorfinn7v');
-                const data = await response.json();
-
-                if (data.status === 'success') {
-                    document.getElementById('total-solved').innerText = `Total Solved: ${data.totalSolved}/${data.totalQuestions}`;
-                    document.getElementById('easy-solved').innerText = `Easy Solved: ${data.easySolved}/${data.totalEasy}`;
-                    document.getElementById('medium-solved').innerText = `Medium Solved: ${data.mediumSolved}/${data.totalMedium}`;
-                    document.getElementById('hard-solved').innerText = `Hard Solved: ${data.hardSolved}/${data.totalHard}`;
-                    document.getElementById('acceptance-rate').innerText = `Acceptance Rate: ${data.acceptanceRate}%`;
-                    document.getElementById('ranking').innerText = `Ranking: ${data.ranking}`;
-                } else {
-                    console.error('Failed to fetch LeetCode stats');
-                }
-            } catch (error) {
-                console.error('Error fetching LeetCode stats:', error);
-            }
-        }
-
-        fetchLeetCodeStats();
-    </script>
-</body>
-
-
-
-
-
+- 🏹 Leetcode Learning Record Dashboard
+![LeetCode Stats](https://leetcard.jacoblin.cool/Thorfinn7v?theme=unicorn&font=Quattrocento&ext=activity)
 
 
 <hr>
