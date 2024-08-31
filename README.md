@@ -12,6 +12,9 @@
 - 📫 How to reach me : **lumiere.86x@gmail.com**
 
 - 🏹 Leetcode Learning Record Dashboard
+
+<hr>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Thorfinn7v?theme=unicorn&font=Quattrocento&ext=activity)
 
 
