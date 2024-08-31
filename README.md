@@ -11,7 +11,20 @@
 
 - 📫 How to reach me : **lumiere.86x@gmail.com**
 
-- https://leetcode-stats-api.herokuapp.com/<dkchung0>
+- <script>
+async function updateDashboard() {
+    const response = await fetch('[https://api.example.com/leetcode-progress](https://leetcode-stats-api.herokuapp.com/Thorfinn7v)'); 
+    const data = await response.json();
+    
+    document.querySelector('.text-sd-foreground.text-xs.font-medium').innerText = `${data.easySolved}/${data.easyTotal}`;
+    document.querySelector('.text-sd-foreground.text-xs.font-medium').innerText = `${data.mediumSolved}/${data.mediumTotal}`;
+    document.querySelector('.text-sd-foreground.text-xs.font-medium').innerText = `${data.hardSolved}/${data.hardTotal}`;
+    
+}
+
+document.addEventListener('DOMContentLoaded', updateDashboard);
+</script>
+
 <hr>
 
 <h3 align="left">Connect with me:</h3>
