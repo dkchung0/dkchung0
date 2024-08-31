@@ -16,7 +16,7 @@
 - 🏹 Leetcode Learning Record Dashboard
 <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Thorfinn7v?theme=unicorn&font=Quattrocento&ext=activity)
-
+<br/>
 
 <hr>
 
