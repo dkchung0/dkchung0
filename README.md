@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, My name is Chi Chung Chen and I am a Python developer from Taiwan </h3>
+<h3 align="center">Hi 👋, My name is Thorfinn Chen and I am a Python developer from Taiwan </h3>
 <hr>
 
 - 💫 Creating bugs since **2021**
