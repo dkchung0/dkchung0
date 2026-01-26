@@ -13,9 +13,6 @@
 
 - 📫 How to reach me : **kampf.7v@gmail.com**
 
-# - 🏹 Leetcode Learning Record Dashboard
-# <br><br>![LeetCode Stats](https://leetcard.jacoblin.cool/Thorfinn7v?theme=unicorn&font=Quattrocento&ext=activity)<br/><br/>
-
 <hr>
 
 <h3 align="left">Connect with me:</h3>
